@@ -3,9 +3,22 @@ body {
   padding: 0;
 }
 
-.topbar {
+#topbar {
   margin: 0 auto;
   height: 40px;
   width: 1000px;
-  background-color: red;
+  background-color: #ffe6e6;
+}
+
+#logo {
+  margin-top: 8px;
+  margin-right: 8px;
+  width: 100px;
+  float: left;
+}
+
+.topbar-section {
+  float: left;
+  border-left: 1px #CCCCCC solid;
+  height: 100%;
 }
