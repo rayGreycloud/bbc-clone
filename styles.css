@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.topbar {
+  margin: 0 auto;
+  height: 40px;
+  width: 1000px;
+  background-color: red;
+}
